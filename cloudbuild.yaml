@@ -1,5 +1,5 @@
 steps:
-- name : 'pythom
+- name : 'pythom'
 args: ['python3','hello.py']
 
 options: 
