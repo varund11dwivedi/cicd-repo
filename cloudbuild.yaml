@@ -5,6 +5,3 @@ args: ['python3','hello.py']
 options: 
  logging: CLOUD_LOGGING_ONLY
 
-- name: 'gcr.io/cloud-builders/gcloud'
-  args: ['app', 'deploy']n:3.8-slim'
-  entrypoint: 'python3'
